@@ -1,0 +1,9 @@
+{
+  "name": "VisionTour AI",
+  "description": "App turística inteligente optimizada para Android Studio y sistemas móviles.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "androidPackageName": "com.visiontour.ai"
+}
